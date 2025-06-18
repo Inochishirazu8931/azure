@@ -1,0 +1,3 @@
+## Credits
+Player Sprites by Sscary
+Enemy Sprites by Flanne
