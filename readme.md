@@ -1,7 +1,7 @@
 ## Pre-requisites
 
 Install python 3\
-Using pip install pygame\
+Using pip install pygame
 > on terminal run `pip install pygame`
 
 ## Running the game
